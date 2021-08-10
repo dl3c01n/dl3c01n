@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dl3c01n
-- 👀 I’m interested in BackEnd Technologies such as Express
-- 🌱 I’m currently learning "Migrating from pure JavaScript to TypeScript (100%)"
-- 💞️ I’m looking to collaborate on NOTHING, i'm happy at my work :D
-- 📫 How to reach me on github, on linkedin
+- 👀 Specialized in BackEnd Development using Express
+- 🌱 "Migrating from pure JavaScript to TypeScript (100%)"
+- 💞️ Already working at Mon Qualiticien, and i love this company <3
+- 📫 If you need help or any lessons on back-end, i would be glad to do so !
 
 <!---
 dl3c01n/dl3c01n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
