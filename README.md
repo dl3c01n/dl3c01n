@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dl3c01n
 - 👀 Specialized in BackEnd Development using Express
 - 🌱 "Migrating from pure JavaScript to TypeScript (100%)"
-- 💞️ Already working at Mon Qualiticien, and i love this company <3
+- 💞️ Already working at Listen Too as a Back-End Developer & Dev Ops 
 - 📫 If you need help or any lessons on back-end, i would be glad to do so !
 
 <!---
